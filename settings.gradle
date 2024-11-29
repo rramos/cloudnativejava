@@ -1,3 +1,4 @@
 rootProject.name = 'cloudnative-demos'
 include 'config-client'
 include 'config-server'
+include 'webflux_demo'
