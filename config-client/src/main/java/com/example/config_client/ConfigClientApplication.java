@@ -15,7 +15,7 @@ public class ConfigClientApplication {
 
 	@RequestMapping("/")
 	public String home() {
-		return String.format("Welcome Message is: %s.\n", welcome);
+		return String.format("Welcome Message is: %s.%n", welcome);
 	}
 
 	public static void main(String[] args) {

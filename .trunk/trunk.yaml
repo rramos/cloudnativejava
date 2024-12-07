@@ -19,6 +19,7 @@ runtimes:
 lint:
   enabled:
     - pre-commit-hooks@5.0.0
+    - pre-commit-hooks@5.0.0
     - actionlint@1.7.4
     - checkov@3.2.328
     - git-diff-check

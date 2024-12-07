@@ -113,7 +113,7 @@ CYGWIN*) cygwin=true ;;      #(
 Darwin*) darwin=true ;;      #(
 MSYS* | MINGW*) msys=true ;; #(
 NONSTOP*) nonstop=true ;;
-*) exit 1 ;;
+*) ;;
 esac
 
 CLASSPATH=${APP_HOME}/gradle/wrapper/gradle-wrapper.jar
