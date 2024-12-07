@@ -1,7 +1,8 @@
 # cloudnativejava
+
 CloudNative Java: Spring Sample apps
 
-# List projects
+## List projects
 
 ```sh
 ./gradlew -q projects
